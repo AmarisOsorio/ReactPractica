@@ -8,21 +8,21 @@ function CarouselSlide (){
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="10000">
-      <img src="..." class="d-block w-100" alt="..."></img>
+      <img src="https://img2.rtve.es/v/4552692/square/?h=400" class="d-block w-100" alt="..."></img>
       <div class="carousel-caption d-none d-md-block">
         <h5>First slide label</h5>
         <p>Some representative placeholder content for the first slide.</p>
       </div>
     </div>
     <div class="carousel-item" data-bs-interval="2000">
-      <img src="..." class="d-block w-100" alt="..."></img>
+      <img src="https://animapedia.org/wp-content/uploads/2018/11/zorro-comun.jpg" class="d-block w-100" alt="..."></img>
       <div class="carousel-caption d-none d-md-block">
         <h5>Second slide label</h5>
         <p>Some representative placeholder content for the second slide.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="..."></img>
+      <img src="https://www.dondevive.org/wp-content/uploads/2016/02/donde-vive-el-zorro.jpg" class="d-block w-100" alt="..."></img>
       <div class="carousel-caption d-none d-md-block">
         <h5>Third slide label</h5>
         <p>Some representative placeholder content for the third slide.</p>
@@ -40,3 +40,5 @@ function CarouselSlide (){
 </div>
     );
 }
+
+export default CarouselSlide;

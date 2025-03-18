@@ -6,6 +6,7 @@ import Alerts from './components/Alerts';
 import Card from './components/Card';
 import ListCard from './components/ListGroupsCard';
 import Carousel from './components/Carousel';
+import CarouselSlide from './components/CarouselSlide';
 
 function App() {
   return (
@@ -31,6 +32,9 @@ function App() {
      <br></br>
      <br></br>
      <Carousel />
+     <br></br>
+     <br></br>
+     <CarouselSlide />
     </>
   );
 }
